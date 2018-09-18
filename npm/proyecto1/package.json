@@ -1,0 +1,20 @@
+{
+  "name": "primer_proyecto",
+  "version": "0.0.1",
+  "description": "Este es el primer proyecto de NPM echo por pfauda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primer",
+    "proyecto",
+    "pablo",
+    "fauda"
+  ],
+  "author": "Pablo Fauda",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
